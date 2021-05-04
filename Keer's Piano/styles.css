@@ -1,0 +1,135 @@
+body {
+  text-align: center;
+  background-color: #000;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #fff;
+  font-family: "Pacifico", cursive;
+  text-shadow: 4px 2px #424242;
+
+}
+
+/* footer {
+  color: #DBEDF3;
+} */
+
+.bottom {
+  text-decoration: none;
+  color: #fff;
+  font-family: "Pacifico", cursive;
+
+}
+
+.q {
+  background-image: url("images/key.png");
+}
+.w {
+  background-image: url("images/key.png");
+}
+.e {
+  background-image: url("images/key.png");
+}
+.r {
+  background-image: url("images/key.png");
+}
+.t {
+  background-image: url("images/key.png");
+}
+.y {
+  background-image: url("images/key.png");
+}
+.u {
+  background-image: url("images/key.png");
+}
+.i {
+  background-image: url("images/key.png");
+}
+.o {
+  background-image: url("images/key.png");
+}
+.p {
+  background-image: url("images/key.png");
+}
+
+.a {
+  background-image: url("images/key.png");
+}
+.s {
+  background-image: url("images/key.png");
+}
+.d {
+  background-image: url("images/key.png");
+}
+.f {
+  background-image: url("images/key.png");
+}
+.g {
+  background-image: url("images/key.png");
+}
+.h {
+  background-image: url("images/key.png");
+}
+.j {
+  background-image: url("images/key.png");
+}
+.k{
+  background-image: url("images/key.png");
+}
+.l {
+  background-image: url("images/key.png");
+}
+
+.z {
+  background-image: url("images/key.png");
+}
+.x {
+  background-image: url("images/key.png");
+}
+.c {
+  background-image: url("images/key.png");
+}
+.v {
+  background-image: url("images/key.png");
+}
+.b {
+  background-image: url("images/key.png");
+}
+.n {
+  background-image: url("images/key.png");
+}
+.m {
+  background-image: url("images/key.png");
+}
+
+.set {
+  margin: 4% auto;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #fff;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.key {
+  outline: none;
+  border: 7px solid #2E2E2E;
+  font-size: 2rem;
+  font-family: 'Pacifico', cursive;
+  line-height: 3;
+  color: #000;
+  /* text-shadow: 3px -2px #fff; */
+  border-radius: 10px;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  margin: 6px;
+  /* background-color: white; */
+  /* box-shadow: 2px 2px #14171C; */
+}
